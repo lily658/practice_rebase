@@ -1,2 +1,1 @@
-Third commit 
-# practice_rebase
+我目前在DOG上，正在新增第一個commit
